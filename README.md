@@ -28,13 +28,14 @@ Actuellement focalisé sur l'écosystème **INTUITION Protocol** et les interfac
 
 ### Projets
 
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| [Overmind Founders Collection](https://github.com/Dev-Moulin/Overmind_Founders_Collection) | Plateforme de vote NFT collaborative pour les 42 fondateurs d'INTUITION | TypeScript, React, Wagmi, INTUITION SDK |
-| [Intuition Chrome Extension](https://github.com/THP-Lab/intuition-chrome-extension) | Extension Web3 pour la confiance decentralisee (stage THP Lab) | React, TypeScript, Plasmo, GraphQL, Tailwind |
-| [Overmind 3D Controller](https://github.com/Dev-Moulin/-Overmind_claude) | Visualisation et controle 3D temps reel avec machines a etats | Three.js, XState v5, React 19, Vite |
-| [CoinTribe](https://github.com/DevFullstackCo/CoinTribe) | Plateforme communautaire crypto avec votes et paiements Stripe | Rails 8, PostgreSQL, Devise, Stripe, Heroku |
-| [The Fly Crypto](https://github.com/Dev-Moulin/the-fly-crypto) | Forum crypto avec systeme de vote Bull/Bear et profils utilisateurs | Rails 8, PostgreSQL, Docker, Kamal, Fly.io |
+| Projet | Description | Demo | Stack |
+|--------|-------------|------|-------|
+| [Overmind Founders Collection](https://github.com/Dev-Moulin/Overmind_Founders_Collection) | Plateforme de vote NFT collaborative pour les 42 fondateurs d'INTUITION | [Live](https://dev-moulin.github.io/Overmind_Founders_Collection/) | TypeScript, React, Wagmi, INTUITION SDK |
+| [Intuition Extension](https://github.com/intuition-box/Extension) | Extension Chrome Web3 pour la confiance decentralisee | [Releases](https://github.com/intuition-box/Extension/releases) | TypeScript, Plasmo, GraphQL, Tailwind |
+| [Overmind 3D Controller](https://github.com/intuition-box/Overmind) | Visualisation et controle 3D temps reel avec machines a etats | [Live](https://overmind.intuition.box/) | Three.js, XState v5, React 19, Vite |
+| [Pulse](https://github.com/intuition-box/Pulse) | App de vote Web3 pour l'ecosysteme Ethereum via Worldcoin MiniKit | - | TypeScript, Worldcoin Minikit, INTUITION |
+| [CoinTribe](https://github.com/DevFullstackCo/CoinTribe) | Plateforme communautaire crypto avec votes et paiements Stripe | [Live](https://cryptovotingproject-cc7f6a61a180.herokuapp.com/) | Rails 8, PostgreSQL, Devise, Stripe |
+| [The Fly Crypto](https://github.com/Dev-Moulin/the-fly-crypto) | Forum crypto avec systeme de vote Bull/Bear et profils utilisateurs | - | Rails 8, PostgreSQL, Docker, Kamal |
 
 ### Hackathons
 
@@ -44,3 +45,9 @@ Actuellement focalisé sur l'écosystème **INTUITION Protocol** et les interfac
 | [Artizen Fund Season 6](https://artizen.fund/index/p/intuition-chrome-extension) | Intuition Chrome Extension | Soumis |
 | [ETH Global Cannes](https://ethglobal.com/events/cannes) | A venir | Inscrit |
 
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Moulin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Moulin&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
