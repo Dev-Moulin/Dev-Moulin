@@ -44,9 +44,3 @@ Actuellement focalisé sur l'écosystème **INTUITION Protocol** et les interfac
 | [Artizen Fund Season 6](https://artizen.fund/index/p/intuition-chrome-extension) | Intuition Chrome Extension | Soumis |
 | [ETH Global Cannes](https://ethglobal.com/events/cannes) | A venir | Inscrit |
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Moulin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Moulin&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
