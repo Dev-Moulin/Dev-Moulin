@@ -35,7 +35,6 @@ Actuellement focalisé sur l'écosystème **INTUITION Protocol** et les interfac
 | [Overmind 3D Controller](https://github.com/intuition-box/Overmind) | Visualisation et controle 3D temps reel avec machines a etats | [Live](https://overmind.intuition.box/) | Three.js, XState v5, React 19, Vite |
 | [Pulse](https://github.com/intuition-box/Pulse) | App de vote Web3 pour l'ecosysteme Ethereum via Worldcoin MiniKit | - | TypeScript, Worldcoin Minikit, INTUITION |
 | [CoinTribe](https://github.com/DevFullstackCo/CoinTribe) | Plateforme communautaire crypto avec votes et paiements Stripe | [Live](https://cryptovotingproject-cc7f6a61a180.herokuapp.com/) | Rails 8, PostgreSQL, Devise, Stripe |
-| [The Fly Crypto](https://github.com/Dev-Moulin/the-fly-crypto) | Forum crypto avec systeme de vote Bull/Bear et profils utilisateurs | - | Rails 8, PostgreSQL, Docker, Kamal |
 
 ### Hackathons
 
