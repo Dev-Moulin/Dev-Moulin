@@ -1,10 +1,20 @@
 <h1 align="center">Paul Moulin</h1>
-<h3 align="center">Full-Stack Web3 Developer</h3>
+<h3 align="center">Full-Stack Web3 & 3D Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/DevMoulin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/Dev_FullPoulpe"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://dev-moulin.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/></a>
+</p>
+
+<p align="center">
+  <a href="https://dev-moulin.github.io/my-portfolio/">
+    <img src="https://raw.githubusercontent.com/Dev-Moulin/my-portfolio/main/docs/overview.png" width="760" alt="Overmind 3D Portfolio — cliquez pour explorer"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://dev-moulin.github.io/my-portfolio/">→ Entrer dans la scène (desktop & mobile)</a>
 </p>
 
 ---
@@ -30,6 +40,7 @@ Actuellement focalisé sur l'écosystème **INTUITION Protocol** et les interfac
 
 | Projet | Description | Demo | Stack |
 |--------|-------------|------|-------|
+| [MyPortfolio](https://github.com/Dev-Moulin/my-portfolio) | Portfolio : un monde 3D spatial qu'on explore en temps reel | [Live](https://dev-moulin.github.io/my-portfolio/) | Three.js, XState, React 19, Vite |
 | [Overmind Founders Collection](https://github.com/Dev-Moulin/Overmind_Founders_Collection) | Plateforme de vote NFT collaborative pour les 42 fondateurs d'INTUITION | [Live](https://dev-moulin.github.io/Overmind_Founders_Collection/) | TypeScript, React, Wagmi, INTUITION SDK |
 | [Intuition Extension](https://github.com/intuition-box/Extension) | Extension Chrome Web3 pour la confiance decentralisee | [Releases](https://github.com/intuition-box/Extension/releases) | TypeScript, Plasmo, GraphQL, Tailwind |
 | [Overmind 3D Controller](https://github.com/intuition-box/Overmind) | Visualisation et controle 3D temps reel avec machines a etats | [Live](https://overmind.intuition.box/) | Three.js, XState v5, React 19, Vite |
@@ -43,5 +54,3 @@ Actuellement focalisé sur l'écosystème **INTUITION Protocol** et les interfac
 | [Base Batch Europe](https://base-batch-europe.devfolio.co/) | Intuition Chrome Extension | Participant |
 | [Artizen Fund Season 6](https://artizen.fund/index/p/intuition-chrome-extension) | Intuition Chrome Extension | Soumis |
 | [ETH Global Cannes](https://ethglobal.com/events/cannes) | A venir | Inscrit |
-
-
