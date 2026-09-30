@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://dev-moulin.github.io/Portfolio.2026/">
-    <img src="apercu-portfolio-2026.jpg" width="900" alt="Portfolio.2026, le profil, la salle des projets et la salle Orchestrateur"/>
+    <img src="apercu-portfolio-2026.webp" width="900" alt="Portfolio.2026, une balade dans le site, du profil à la salle Hermès"/>
   </a>
 </p>
 
